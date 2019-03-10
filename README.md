@@ -19,8 +19,30 @@ of the trade and hopefully be impressed by something at least a little!
 #### Tech Skills:
 
 ###### Skilled With
-- Javascript      - Ruby on Rails
-- HTML / CSS      - Node.js
-- Express         - 
+- Javascript
+- HTML / CSS
+- Ruby on Rails
+- MATLAB
+- React
+- Node.js
+- Express
 - JQuery
+- Ajax
 - PSQL
+- MongoDB
+- WebSockets
+- Babel
+
+###### Experience With
+- C
+- C++
+- Python
+
+###### Applicable Academics
+- Calculus
+- Linear Algebra
+- Discreet Mathematics
+- Modelling with Mathematics
+- Numerical Analysis
+- Statistics / Data Analysis
+- Physics
