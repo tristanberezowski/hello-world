@@ -41,7 +41,7 @@ of the trade and hopefully be impressed by something at least a little!
 ###### Applicable Academics
 - Calculus
 - Linear Algebra
-- Discreet Mathematics
+- Discrete Mathematics
 - Modelling with Mathematics
 - Numerical Analysis
 - Statistics / Data Analysis
