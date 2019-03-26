@@ -23,6 +23,7 @@ of the trade and hopefully be impressed by something at least a little!
 - HTML / CSS
 - Ruby on Rails
 - MATLAB
+- C
 - React
 - Node.js
 - Express
@@ -32,9 +33,9 @@ of the trade and hopefully be impressed by something at least a little!
 - MongoDB
 - WebSockets
 - Babel
+- RSpec
 
 ###### Experience With
-- C
 - C++
 - Python
 
